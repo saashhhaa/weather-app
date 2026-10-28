@@ -1,4 +1,9 @@
 body {
     background: #2f2f2f;
     min-height: 100vh;
+
+}
+
+*::-webkit-scrollbar{
+    visibility: hidden;
 }
